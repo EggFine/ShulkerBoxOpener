@@ -1,0 +1,4 @@
+name: ShulkerBoxOpener
+version: '${version}'
+main: com.blbilink.shulkerboxopener.ShulkerBoxOpener
+api-version: '1.13'
